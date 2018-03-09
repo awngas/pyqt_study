@@ -11,21 +11,24 @@ NAME, OWNER, COUNTRY, DESCRIPTION, TEU = range(5)
 MAGIC_NUMBER = 0x570C4
 FILE_VERSION = 1
 
-
+#每条船都可以用Ship来表示
 class Ship(object):
     def __init__(self, name, owner, country, teu=0, description=""):
-        self.name = name
-        self.owner = owner
-        self.country = country
-        self.teu = teu
-        self.description = description
+        self.name = name #名字
+        self.owner = owner   #所属人
+        self.country = country #国家
+        self.teu = teu #该船可以放下多少标准集装箱
+        self.description = description #描述信息
 
+    #魔术方法:定义hash()方法返回的值
     def __hash__(self):
         return super(Ship, self).__hash__()
 
+    #魔术方法:定义小于行为
     def __lt__(self, other):
         return bool(self.name.lower())
 
+    # 魔术方法:定义等于行为
     def __eq__(self, other):
         return bool(self.name.lower() == other.name.lower())
 

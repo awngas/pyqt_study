@@ -6,7 +6,9 @@ from PyQt5.QtWidgets import (QApplication, QDialog, QHBoxLayout, QLabel,
                              QWidget)
 import ships
 
-MAC = True
+# MAC = True
+MAC = False
+
 try:
     from PyQt5.QtGui import qt_mac_set_native_menubar
 except ImportError:
@@ -17,7 +19,7 @@ class MainForm(QDialog):
     def __init__(self, parent=None):
         super(MainForm, self).__init__(parent)
 
-        self.model = ships.ShipTableModel("ships.dat")
+        self.model = ships.ShipTableModel("ships.dat") #创建一个shipmodel
         tableLabel1 = QLabel("Table &1")
         self.tableView1 = QTableView()
         tableLabel1.setBuddy(self.tableView1)
@@ -31,7 +33,7 @@ class MainForm(QDialog):
         removeShipButton = QPushButton("&Remove Ship")
         quitButton = QPushButton("&Quit")
         if not MAC:
-            addShipButton.setFocusPolicy(Qt.NoFocus)
+            addShipButton.setFocusPolicy(Qt.NoFocus) #设置按钮接受键盘焦点方式,NoFocus不接受焦点
             removeShipButton.setFocusPolicy(Qt.NoFocus)
             quitButton.setFocusPolicy(Qt.NoFocus)
 
@@ -59,8 +61,8 @@ class MainForm(QDialog):
         self.setLayout(layout)
 
         for tableView in (self.tableView1, self.tableView2):
-            header = tableView.horizontalHeader()
-            header.sectionClicked[int].connect(self.sortTable)
+            header = tableView.horizontalHeader() #返回水平标题,QHeaderView
+            header.sectionClicked[int].connect(self.sortTable) #点击标题绑定信号,点击某个部分时会发出此信号。该部分的逻辑索引由logicalIndex指定
         addShipButton.clicked.connect(self.addShip)
         removeShipButton.clicked.connect(self.removeShip)
         quitButton.clicked.connect(self.accept)
@@ -71,7 +73,7 @@ class MainForm(QDialog):
     def initialLoad(self):
         if not QFile.exists(self.model.filename):
             self.model.beginResetModel()
-            for ship in ships.generateFakeShips():
+            for ship in ships.generateFakeShips(): #generateFakeShips构造Ship对象列表
                 self.model.ships.append(ship)
                 self.model.owners.add(str(ship.owner))
                 self.model.countries.add(str(ship.country))
