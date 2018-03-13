@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="602f9bf1-4af8-4798-83ae-470ae584572a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/study/自定义模型/自定义模型_船/ships.py" afterPath="$PROJECT_DIR$/study/自定义模型/第14章例子_船/ships.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/study/自定义模型/自定义模型_船/自定义模型_船.py" afterPath="$PROJECT_DIR$/study/自定义模型/第14章例子_船/自定义模型_船.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/study/自定义模型/第14章例子_船/ships.py" afterPath="$PROJECT_DIR$/study/自定义模型/第14章例子_船/ships.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/study/自定义模型/第14章例子_船/自定义模型_船.py" afterPath="$PROJECT_DIR$/study/自定义模型/第14章例子_船/自定义模型_船.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,13 +15,14 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PyQt5_master$qt08_loadGif.coverage" NAME="qt08_loadGif Coverage Results" MODIFIED="1517383996507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter08" />
+    <SUITE FILE_PATH="coverage/PyQt5$ships.coverage" NAME="ships Coverage Results" MODIFIED="1520844755248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/自定义模型/第14章例子_船" />
     <SUITE FILE_PATH="coverage/PyQt5_master$qt09_db03.coverage" NAME="qt09_db03 Coverage Results" MODIFIED="1517472735970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter09" />
     <SUITE FILE_PATH="coverage/PyQt5_master$Ui_Form.coverage" NAME="Ui_Form Coverage Results" MODIFIED="1517474734323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
     <SUITE FILE_PATH="coverage/PyQt5$carhirelog.coverage" NAME="carhirelog Coverage Results" MODIFIED="1520576114158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/自定义模型/泛型委托" />
     <SUITE FILE_PATH="coverage/PyQt5_master$qt08_paint02.coverage" NAME="qt08_paint02 Coverage Results" MODIFIED="1517383885093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter08" />
     <SUITE FILE_PATH="coverage/PyQt5_master$qt08_paint03.coverage" NAME="qt08_paint03 Coverage Results" MODIFIED="1517383909724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter08" />
     <SUITE FILE_PATH="coverage/PyQt5_master$qt09_db03__1_.coverage" NAME="qt09_db03 (1) Coverage Results" MODIFIED="1517474051546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
-    <SUITE FILE_PATH="coverage/PyQt5$___1_.coverage" NAME="自定义模型_船 (1) Coverage Results" MODIFIED="1520587085716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/自定义模型/第14章例子_船" />
+    <SUITE FILE_PATH="coverage/PyQt5$___1_.coverage" NAME="自定义模型_船 (1) Coverage Results" MODIFIED="1520846311535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/自定义模型/第14章例子_船" />
     <SUITE FILE_PATH="coverage/PyQt5_master$qt08_paint01.coverage" NAME="qt08_paint01 Coverage Results" MODIFIED="1517383859032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter08" />
     <SUITE FILE_PATH="coverage/PyQt5$Ui_Form11111.coverage" NAME="Ui_Form11111 Coverage Results" MODIFIED="1520490105011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
     <SUITE FILE_PATH="coverage/PyQt5$16.coverage" NAME="第16章例子 Coverage Results" MODIFIED="1520585157997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/自定义模型/pythonqtgui16章例子" />
@@ -35,11 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="自定义模型_船.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="自定义模型_船.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/study/自定义模型/第14章例子_船/自定义模型_船.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1048">
-              <caret line="96" column="14" lean-forward="false" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="14" />
+            <state relative-caret-position="2852">
+              <caret line="129" column="29" lean-forward="false" selection-start-line="129" selection-start-column="19" selection-end-line="129" selection-end-column="29" />
               <folding>
                 <element signature="e#23#33#0" expanded="true" />
               </folding>
@@ -47,92 +48,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QWidget.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-2030106981/PyQt5/QtWidgets/QWidget.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="721" column="45" lean-forward="false" selection-start-line="721" selection-start-column="45" selection-end-line="721" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ships-delegate.pyw" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyqtbook31/pyqt/chap14/ships-delegate.pyw">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="32" />
-              <folding>
-                <element signature="e#639#649#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ships_ans.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyqtbook31/pyqt/chap14/ships_ans.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="genericdelegates.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study/自定义模型/泛型委托/genericdelegates.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="23" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="23" />
-              <folding>
-                <element signature="e#24#67#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="carhirelog.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study/自定义模型/泛型委托/carhirelog.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="293" column="0" lean-forward="true" selection-start-line="293" selection-start-column="0" selection-end-line="293" selection-end-column="0" />
-              <folding>
-                <element signature="e#24#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="第16章例子.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study/自定义模型/pythonqtgui16章例子/第16章例子.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="367" column="11" lean-forward="true" selection-start-line="367" selection-start-column="11" selection-end-line="367" selection-end-column="11" />
-              <folding>
-                <element signature="e#24#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ships.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ships.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/study/自定义模型/第14章例子_船/ships.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-61">
-              <caret line="36" column="52" lean-forward="true" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
+            <state relative-caret-position="276">
+              <caret line="168" column="30" lean-forward="false" selection-start-line="168" selection-start-column="30" selection-end-line="168" selection-end-column="30" />
               <folding>
                 <element signature="e#24#39#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-2030106981/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="5248" column="33" lean-forward="false" selection-start-line="5248" selection-start-column="29" selection-end-line="5248" selection-end-column="33" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -149,6 +72,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>initialLoad</find>
+      <find>reject</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -172,8 +96,8 @@
         <option value="$PROJECT_DIR$/study/自定义模型/泛型委托/genericdelegates.py" />
         <option value="$PROJECT_DIR$/study/自定义模型/泛型委托/carhirelog.py" />
         <option value="$PROJECT_DIR$/study/自定义模型/pythonqtgui16章例子/第16章例子.py" />
-        <option value="$PROJECT_DIR$/study/自定义模型/第14章例子_船/ships.py" />
         <option value="$PROJECT_DIR$/study/自定义模型/第14章例子_船/自定义模型_船.py" />
+        <option value="$PROJECT_DIR$/study/自定义模型/第14章例子_船/ships.py" />
       </list>
     </option>
   </component>
@@ -183,9 +107,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="193" />
-    <option name="y" value="40" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="225" />
+    <option name="y" value="84" />
     <option name="width" value="1400" />
     <option name="height" value="990" />
   </component>
@@ -224,20 +148,6 @@
               <item name="PyQt5" type="462c0819:PsiDirectoryNode" />
               <item name="pyqtbook31" type="462c0819:PsiDirectoryNode" />
               <item name="pyqt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyQt5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyQt5" type="462c0819:PsiDirectoryNode" />
-              <item name="pyqtbook31" type="462c0819:PsiDirectoryNode" />
-              <item name="pyqt" type="462c0819:PsiDirectoryNode" />
-              <item name="chap14" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyQt5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyQt5" type="462c0819:PsiDirectoryNode" />
-              <item name="pyqtbook31" type="462c0819:PsiDirectoryNode" />
-              <item name="pyqt" type="462c0819:PsiDirectoryNode" />
-              <item name="chap16" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PyQt5" type="b2602c69:ProjectViewProjectNode" />
@@ -282,7 +192,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -307,24 +217,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.自定义模型_船 (1)">
-    <configuration name="显示按钮" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PyQt5-master" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/显示按钮.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="显示复选框" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -393,24 +285,6 @@
       <module name="PyQt5-master" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/显示复选框.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="第16章例子" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/自定义模型/pythonqtgui16章例子" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PyQt5-master" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/自定义模型/pythonqtgui16章例子/第16章例子.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -433,56 +307,13 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="自定义模型_船" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/自定义模型/自定义模型_船" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PyQt5-master" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/自定义模型/自定义模型_船/自定义模型_船.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="carhirelog" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/自定义模型/泛型委托" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PyQt5-master" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/自定义模型/泛型委托/carhirelog.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.显示按钮" />
-      <item index="1" class="java.lang.String" itemvalue="Python.自定义模型_船" />
-      <item index="2" class="java.lang.String" itemvalue="Python.carhirelog" />
-      <item index="3" class="java.lang.String" itemvalue="Python.第16章例子" />
-      <item index="4" class="java.lang.String" itemvalue="Python.自定义模型_船 (1)" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.显示复选框" />
+      <item index="1" class="java.lang.String" itemvalue="Python.自定义模型_船 (1)" />
     </list>
     <recent_temporary>
-      <list size="5">
+      <list size="1">
         <item index="0" class="java.lang.String" itemvalue="Python.自定义模型_船 (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.第16章例子" />
-        <item index="2" class="java.lang.String" itemvalue="Python.carhirelog" />
-        <item index="3" class="java.lang.String" itemvalue="Python.自定义模型_船" />
-        <item index="4" class="java.lang.String" itemvalue="Python.显示按钮" />
       </list>
     </recent_temporary>
   </component>
@@ -520,19 +351,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="225" y="84" width="1400" height="990" extended-state="1" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3944193" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35180995" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27145922" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3765133" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39932126" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -540,6 +369,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -560,20 +391,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter08/qt08_loadGif.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter08/qt08_labelStyle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
-          <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter08/qt08_btnStyle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -677,7 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -734,9 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#25#37#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -744,9 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -761,7 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1219">
           <caret line="57" column="8" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,9 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="39" column="24" lean-forward="false" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
-          <folding>
-            <element signature="e#73#83#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -780,7 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="149" column="18" lean-forward="false" selection-start-line="149" selection-start-column="18" selection-end-line="149" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -788,9 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2070">
           <caret line="92" column="16" lean-forward="false" selection-start-line="92" selection-start-column="16" selection-end-line="92" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -798,9 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="28" column="47" lean-forward="false" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -809,51 +608,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
-          <folding>
-            <element signature="e#23#32#0" expanded="false" />
-            <marker date="1517489561423" expanded="true" signature="981:998" ph="DROP TABLE a... " />
-            <marker date="1517489561423" expanded="true" signature="1018:1033" ph="DROP TABLE l... " />
-            <marker date="1517489561423" expanded="true" signature="1053:1071" ph="DROP TABLE a... " />
-            <marker date="1517489561423" expanded="true" signature="1091:1112" ph="DROP TABLE c... " />
-            <marker date="1517489561423" expanded="true" signature="1200:1385" ph="CREATE TABLE... actions" />
-            <marker date="1517489561423" expanded="true" signature="1409:1597" ph="CREATE TABLE... categories" />
-            <marker date="1517489561423" expanded="true" signature="1621:1906" ph="CREATE TABLE... assets" />
-            <marker date="1517489561423" expanded="true" signature="1930:2256" ph="CREATE TABLE... logs" />
-            <marker date="1517489561423" expanded="true" signature="2346:2442" ph="INSERT INTO actions... " />
-            <marker date="1517489561423" expanded="true" signature="2462:2566" ph="INSERT INTO actions... " />
-            <marker date="1517489561423" expanded="true" signature="2586:2688" ph="INSERT INTO actions... " />
-            <marker date="1517489561423" expanded="true" signature="2708:2847" ph="INSERT INTO actions... " />
-            <marker date="1517489561423" expanded="true" signature="2867:3022" ph="INSERT INTO categories... " />
-            <marker date="1517489561423" expanded="true" signature="3042:3155" ph="INSERT INTO categories... " />
-            <marker date="1517489561423" expanded="true" signature="3175:3296" ph="INSERT INTO categories... " />
-            <marker date="1517489561423" expanded="true" signature="5093:5192" ph="INSERT INTO assets... " />
-            <marker date="1517489561423" expanded="true" signature="5244:5346" ph="INSERT INTO logs... " />
-            <marker date="1517489561423" expanded="true" signature="8538:8614" ph="SELECT id, n... assets" />
-            <marker date="1517489561423" expanded="true" signature="8836:8894" ph="SELECT name categories" />
-            <marker date="1517489561423" expanded="true" signature="11348:11426" ph="SELECT COUNT... logs" />
-            <marker date="1517489561423" expanded="true" signature="11504:11586" ph="SELECT COUNT... assets" />
-            <marker date="1517489561423" expanded="true" signature="19961:20049" ph="DELETE FROM " />
-            <marker date="1517489561423" expanded="true" signature="20027:20048" ph="SELECT id FR... assets" />
-            <marker date="1517489561423" expanded="true" signature="21223:21249" ph="SELECT MAX(i... assets" />
-            <marker date="1517489561423" expanded="true" signature="21337:21440" ph="INSERT INTO logs... " />
-            <marker date="1517489561423" expanded="true" signature="22033:22075" ph="SELECT COUNT... logs" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/自定义模型/pythonqtgui16章例子/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/study/自定义模型/pythonqtgui16章例子/__init__.py" />
     <entry file="file://$PROJECT_DIR$/study/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -861,7 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="142" column="32" lean-forward="false" selection-start-line="142" selection-start-column="24" selection-end-line="142" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -879,49 +640,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="186" column="42" lean-forward="false" selection-start-line="186" selection-start-column="42" selection-end-line="186" selection-end-column="42" />
-          <folding>
-            <element signature="e#24#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/study/自定义模型/泛型委托/genericdelegates.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
+        <state relative-caret-position="46">
           <caret line="6" column="23" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="23" />
-          <folding>
-            <element signature="e#24#67#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/study/自定义模型/泛型委托/carhirelog.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="293" column="0" lean-forward="true" selection-start-line="293" selection-start-column="0" selection-end-line="293" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="6532">
+          <caret line="293" column="0" lean-forward="false" selection-start-line="293" selection-start-column="0" selection-end-line="293" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/study/自定义模型/pythonqtgui16章例子/第16章例子.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="367" column="11" lean-forward="true" selection-start-line="367" selection-start-column="11" selection-end-line="367" selection-end-column="11" />
-          <folding>
-            <element signature="e#24#35#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="8257">
+          <caret line="367" column="11" lean-forward="false" selection-start-line="367" selection-start-column="11" selection-end-line="367" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pyqtbook31/pyqt/chap14/ships-delegate.pyw">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
+        <state relative-caret-position="299">
           <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="32" />
-          <folding>
-            <element signature="e#639#649#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -929,23 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-2030106981/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="5248" column="33" lean-forward="false" selection-start-line="5248" selection-start-column="29" selection-end-line="5248" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-2030106981/PyQt5/QtWidgets/QWidget.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="721" column="45" lean-forward="false" selection-start-line="721" selection-start-column="45" selection-end-line="721" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -957,22 +686,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/自定义模型/第14章例子_船/ships.py">
+    <entry file="file://$PROJECT_DIR$/pyqtbook31/pyqt/chap14/ships-dict.pyw">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <caret line="36" column="52" lean-forward="true" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
-          <folding>
-            <element signature="e#24#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="322">
+          <caret line="128" column="36" lean-forward="false" selection-start-line="128" selection-start-column="36" selection-end-line="128" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-2030106981/PyQt5/QtWidgets/QWidget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="716" column="2" lean-forward="false" selection-start-line="716" selection-start-column="2" selection-end-line="716" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqtbook31/pyqt/chap14/ships-model.pyw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3442">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-2030106981/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="519" column="4" lean-forward="false" selection-start-line="519" selection-start-column="4" selection-end-line="519" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/study/自定义模型/第14章例子_船/自定义模型_船.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1048">
-          <caret line="96" column="14" lean-forward="false" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="14" />
+        <state relative-caret-position="2852">
+          <caret line="129" column="29" lean-forward="false" selection-start-line="129" selection-start-column="19" selection-end-line="129" selection-end-column="29" />
           <folding>
             <element signature="e#23#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/自定义模型/第14章例子_船/ships.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="168" column="30" lean-forward="false" selection-start-line="168" selection-start-column="30" selection-end-line="168" selection-end-column="30" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
