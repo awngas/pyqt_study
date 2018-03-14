@@ -165,8 +165,7 @@ class ShipTableModel(QAbstractTableModel):
     def insertRows(self, position, rows=1, index=QModelIndex()):
         self.beginInsertRows(QModelIndex(), position, position + rows - 1)
         for row in range(rows):
-            self.ships.insert(position + row
-                              ,
+            self.ships.insert(position + row,
                               Ship(" Unknown", " Unknown", " Unknown"))
         self.endInsertRows()
         self.dirty = True
