@@ -39,16 +39,18 @@ class ShipTableModel(QAbstractTableModel):
     def __init__(self, filename=""):
         super(ShipTableModel, self).__init__()
         self.filename = filename
-        self.dirty = False  # 标识model数据是否做过等该
+        self.dirty = False  # 标识model数据是否被污染
         self.ships = []
         self.owners = set()
         self.countries = set()
 
+    #根据名称排序
     def sortByName(self):
         self.beginResetModel()
         self.ships = sorted(self.ships)
         self.endResetModel()
 
+    # 根据 国家 所有人 名称 排序
     def sortByCountryOwner(self):
         self.beginResetModel()
         self.ships = sorted(self.ships,
@@ -171,6 +173,7 @@ class ShipTableModel(QAbstractTableModel):
         self.dirty = True
         return True
 
+    # 自定义可编辑模型时需要实现: 删除一行或者多行
     def removeRows(self, position, rows=1, index=QModelIndex()):
         self.beginRemoveRows(QModelIndex(), position, position + rows - 1)
         self.ships = (self.ships[:position] +
@@ -179,6 +182,7 @@ class ShipTableModel(QAbstractTableModel):
         self.dirty = True
         return True
 
+    # 从文件中加载数据
     def load(self):
         exception = None
         fh = None
@@ -219,6 +223,7 @@ class ShipTableModel(QAbstractTableModel):
             if exception is not None:
                 raise exception
 
+    # 保存数据到文件
     def save(self):
         exception = None
         fh = None
