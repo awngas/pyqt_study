@@ -25,7 +25,7 @@ class MainForm(QDialog):
         self.tableView1 = QTableView()
         tableLabel1.setBuddy(self.tableView1)
         self.tableView1.setModel(self.model)
-        self.tableView1.setItemDelegate(ships.ShipDelegate(self))
+        self.tableView1.setItemDelegate(ships.ShipDelegate(self))  # 使用自己定义的委托
         tableLabel2 = QLabel("Table &2")
         self.tableView2 = QTableView()
         tableLabel2.setBuddy(self.tableView2)

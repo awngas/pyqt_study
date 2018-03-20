@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="602f9bf1-4af8-4798-83ae-470ae584572a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/study/自定义模型/第14章例子_船/ships.py" afterPath="$PROJECT_DIR$/study/自定义模型/第14章例子_船/ships.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/study/自定义模型/第14章例子_自定义委托/ships-delegate_ans.pyw.py" afterPath="$PROJECT_DIR$/study/自定义模型/第14章例子_自定义委托/ships-delegate_ans.pyw.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/study/自定义模型/第14章例子_自定义委托/ships_ans.py" afterPath="$PROJECT_DIR$/study/自定义模型/第14章例子_自定义委托/ships_ans.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,31 +29,33 @@
     <SUITE FILE_PATH="coverage/PyQt5_master$qt08_paint04.coverage" NAME="qt08_paint04 Coverage Results" MODIFIED="1517383989093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter08" />
     <SUITE FILE_PATH="coverage/PyQt5_master$qt08_labelStyle.coverage" NAME="qt08_labelStyle Coverage Results" MODIFIED="1517384035543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter08" />
     <SUITE FILE_PATH="coverage/PyQt5_master$.coverage" NAME="复杂的离子 Coverage Results" MODIFIED="1517489570657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
-    <SUITE FILE_PATH="coverage/PyQt5$ships_delegate_ans_pyw.coverage" NAME="ships-delegate_ans.pyw Coverage Results" MODIFIED="1521436316309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/自定义模型/第14章例子_自定义委托" />
-    <SUITE FILE_PATH="coverage/PyQt5$.coverage" NAME="显示按钮 Coverage Results" MODIFIED="1520494773009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
+    <SUITE FILE_PATH="coverage/PyQt5$ships_delegate_ans_pyw.coverage" NAME="ships-delegate_ans.pyw Coverage Results" MODIFIED="1521524312569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/自定义模型/第14章例子_自定义委托" />
+    <SUITE FILE_PATH="coverage/PyQt5$.coverage" NAME="数据库模型 Coverage Results" MODIFIED="1521537811032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/自定义模型/第15章_数据库模型视图" />
     <SUITE FILE_PATH="coverage/PyQt5_master$qt08_btnStyle.coverage" NAME="qt08_btnStyle Coverage Results" MODIFIED="1517384149235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter08" />
+    <SUITE FILE_PATH="coverage/PyQt5$writePicToSqlite.coverage" NAME="writePicToSqlite Coverage Results" MODIFIED="1521537881073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/测试例子/插入和读取图片到sqlite" />
     <SUITE FILE_PATH="coverage/PyQt5$_.coverage" NAME="自定义模型_船 Coverage Results" MODIFIED="1520500561943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/自定义模型/自定义模型_船" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="自定义模型_船.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study/自定义模型/第14章例子_船/自定义模型_船.py">
+      <file leaf-file-name="start.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study/开发/start.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1609">
-              <caret line="72" column="19" lean-forward="true" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
-              <folding>
-                <element signature="e#23#33#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="23">
+              <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="richtextlineedit.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study/自定义模型/第14章例子_自定义委托/richtextlineedit.py">
+      <file leaf-file-name="common.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study/开发/common.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-              <folding />
+            <state relative-caret-position="192">
+              <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1521544425331" expanded="true" signature="414:743" ph="create table... if" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,8 +63,8 @@
       <file leaf-file-name="ships_ans.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/study/自定义模型/第14章例子_自定义委托/ships_ans.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="542" column="58" lean-forward="false" selection-start-line="542" selection-start-column="58" selection-end-line="542" selection-end-column="58" />
+            <state relative-caret-position="564">
+              <caret line="332" column="39" lean-forward="false" selection-start-line="332" selection-start-column="39" selection-end-line="332" selection-end-column="39" />
               <folding>
                 <element signature="e#24#39#0" expanded="true" />
               </folding>
@@ -70,36 +72,57 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ships-delegate_ans.pyw.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/study/自定义模型/第14章例子_自定义委托/ships-delegate_ans.pyw.py">
+      <file leaf-file-name="数据库模型.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/study/自定义模型/第15章_数据库模型视图/数据库模型.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+            <state relative-caret-position="345">
+              <caret line="327" column="0" lean-forward="true" selection-start-line="327" selection-start-column="0" selection-end-line="327" selection-end-column="0" />
               <folding>
-                <element signature="e#24#34#0" expanded="true" />
+                <element signature="e#23#32#0" expanded="true" />
+                <marker date="1521544427654" expanded="true" signature="980:997" ph="DROP TABLE a... " />
+                <marker date="1521544427654" expanded="true" signature="1017:1032" ph="DROP TABLE l... " />
+                <marker date="1521544427654" expanded="true" signature="1052:1070" ph="DROP TABLE a... " />
+                <marker date="1521544427654" expanded="true" signature="1090:1111" ph="DROP TABLE c... " />
+                <marker date="1521544427654" expanded="true" signature="1199:1386" ph="CREATE TABLE... actions" />
+                <marker date="1521544427654" expanded="true" signature="1410:1598" ph="CREATE TABLE... categories" />
+                <marker date="1521544427654" expanded="true" signature="1622:1907" ph="CREATE TABLE... assets" />
+                <marker date="1521544427654" expanded="true" signature="1931:2257" ph="CREATE TABLE... logs" />
+                <marker date="1521544427654" expanded="true" signature="2347:2443" ph="INSERT INTO actions... " />
+                <marker date="1521544427654" expanded="true" signature="2463:2567" ph="INSERT INTO actions... " />
+                <marker date="1521544427654" expanded="true" signature="2587:2689" ph="INSERT INTO actions... " />
+                <marker date="1521544427654" expanded="true" signature="2709:2848" ph="INSERT INTO actions... " />
+                <marker date="1521544427654" expanded="true" signature="2868:3023" ph="INSERT INTO categories... " />
+                <marker date="1521544427654" expanded="true" signature="3043:3156" ph="INSERT INTO categories... " />
+                <marker date="1521544427654" expanded="true" signature="3176:3297" ph="INSERT INTO categories... " />
+                <marker date="1521544427654" expanded="true" signature="5094:5193" ph="INSERT INTO assets... " />
+                <marker date="1521544427654" expanded="true" signature="5245:5347" ph="INSERT INTO logs... " />
+                <marker date="1521544427654" expanded="true" signature="8539:8615" ph="SELECT id, n... assets" />
+                <marker date="1521544427654" expanded="true" signature="8837:8895" ph="SELECT name categories" />
+                <marker date="1521544427654" expanded="true" signature="11349:11427" ph="SELECT COUNT... logs" />
+                <marker date="1521544427654" expanded="true" signature="11505:11587" ph="SELECT COUNT... assets" />
+                <marker date="1521544427654" expanded="true" signature="19962:20050" ph="DELETE FROM " />
+                <marker date="1521544427654" expanded="true" signature="20028:20049" ph="SELECT id FR... assets" />
+                <marker date="1521544427654" expanded="true" signature="21224:21250" ph="SELECT MAX(i... assets" />
+                <marker date="1521544427654" expanded="true" signature="21338:21441" ph="INSERT INTO logs... " />
+                <marker date="1521544427654" expanded="true" signature="22034:22076" ph="SELECT COUNT... logs" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ships.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study/自定义模型/第14章例子_船/ships.py">
+      <file leaf-file-name="writePicToSqlite.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study/测试例子/插入和读取图片到sqlite/writePicToSqlite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2718">
-              <caret line="256" column="48" lean-forward="false" selection-start-line="256" selection-start-column="48" selection-end-line="256" selection-end-column="48" />
+            <state relative-caret-position="-1395">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="14" />
               <folding>
-                <element signature="e#24#39#0" expanded="true" />
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1521532329023" expanded="true" signature="621:768" ph="create table... if" />
+                <marker date="1521532329023" expanded="true" signature="1129:1208" ph="INSERT INTO PICTURES... " />
+                <marker date="1521532329023" expanded="true" signature="1494:1554" ph="SELECT PICTU... PICTURES" />
+                <marker date="1521532329023" expanded="true" signature="2004:2024" ph="DELETE FROM " />
+                <marker date="1521532329023" expanded="true" signature="2152:2182" ph="SELECT FILE_... PICTURES" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-2030106981/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30314">
-              <caret line="1318" column="8" lean-forward="false" selection-start-line="1318" selection-start-column="8" selection-end-line="1318" selection-end-column="8" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -117,6 +140,7 @@
     <findStrings>
       <find>initialLoad</find>
       <find>reject</find>
+      <find>qrc_resources</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -143,8 +167,12 @@
         <option value="$PROJECT_DIR$/study/自定义模型/第14章例子_船/自定义模型_船.py" />
         <option value="$PROJECT_DIR$/study/自定义模型/第14章例子_船/ships.py" />
         <option value="$PROJECT_DIR$/study/自定义模型/第14章例子_自定义委托/richtextlineedit.py" />
-        <option value="$PROJECT_DIR$/study/自定义模型/第14章例子_自定义委托/ships_ans.py" />
         <option value="$PROJECT_DIR$/study/自定义模型/第14章例子_自定义委托/ships-delegate_ans.pyw.py" />
+        <option value="$PROJECT_DIR$/study/自定义模型/第14章例子_自定义委托/ships_ans.py" />
+        <option value="$PROJECT_DIR$/study/测试例子/插入和读取图片到sqlite/writePicToSqlite.py" />
+        <option value="$PROJECT_DIR$/study/开发/start.py" />
+        <option value="$PROJECT_DIR$/study/自定义模型/第15章_数据库模型视图/数据库模型.py" />
+        <option value="$PROJECT_DIR$/study/开发/common.py" />
       </list>
     </option>
   </component>
@@ -178,7 +206,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,7 +223,40 @@
               <item name="PyQt5" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyQt5" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="开发" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyQt5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyQt5" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="测试例子" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyQt5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyQt5" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="测试例子" type="462c0819:PsiDirectoryNode" />
+              <item name="插入和读取图片到sqlite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyQt5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyQt5" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
               <item name="自定义模型" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyQt5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyQt5" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="自定义模型" type="462c0819:PsiDirectoryNode" />
+              <item name="pythonqtgui16章例子" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyQt5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyQt5" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="自定义模型" type="462c0819:PsiDirectoryNode" />
+              <item name="泛型委托" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PyQt5" type="b2602c69:ProjectViewProjectNode" />
@@ -211,11 +272,48 @@
               <item name="自定义模型" type="462c0819:PsiDirectoryNode" />
               <item name="第14章例子_船" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PyQt5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyQt5" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="自定义模型" type="462c0819:PsiDirectoryNode" />
+              <item name="第15章_数据库模型视图" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyQt5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="PyQt5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.3 (D:\develop\python3.6\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="PyQt5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.3 (D:\develop\python3.6\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="-2030106981" type="70582d5e:PySkeletonsNode" />
+            </path>
+            <path>
+              <item name="PyQt5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.3 (D:\develop\python3.6\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="-2030106981" type="70582d5e:PySkeletonsNode" />
+              <item name="PyQt5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyQt5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.3 (D:\develop\python3.6\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="-2030106981" type="70582d5e:PySkeletonsNode" />
+              <item name="PyQt5" type="462c0819:PsiDirectoryNode" />
+              <item name="QtGui" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,7 +344,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.自定义模型_船 (1)">
+  <component name="RunManager" selected="Python.writePicToSqlite">
     <configuration name="显示复选框" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -315,6 +413,24 @@
       <module name="PyQt5-master" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/显示复选框.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="数据库模型" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/自定义模型/第15章_数据库模型视图" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyQt5-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/自定义模型/第15章_数据库模型视图/数据库模型.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,15 +471,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="3">
+    <configuration name="writePicToSqlite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/测试例子/插入和读取图片到sqlite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyQt5-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/测试例子/插入和读取图片到sqlite/writePicToSqlite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.显示复选框" />
       <item index="1" class="java.lang.String" itemvalue="Python.自定义模型_船 (1)" />
       <item index="2" class="java.lang.String" itemvalue="Python.ships-delegate_ans.pyw" />
+      <item index="3" class="java.lang.String" itemvalue="Python.writePicToSqlite" />
+      <item index="4" class="java.lang.String" itemvalue="Python.数据库模型" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.自定义模型_船 (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ships-delegate_ans.pyw" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.writePicToSqlite" />
+        <item index="1" class="java.lang.String" itemvalue="Python.数据库模型" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ships-delegate_ans.pyw" />
+        <item index="3" class="java.lang.String" itemvalue="Python.自定义模型_船 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -404,13 +542,13 @@
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17542918" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17757511" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35180995" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35180995" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -442,48 +580,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter08/qt08_paint01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter08/qt08_paint02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter08/qt08_paint03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter08/qt08_paint04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter08/qt08_loadGif.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-2030106981/PyQt5/QtSql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1351" column="0" lean-forward="true" selection-start-line="1351" selection-start-column="0" selection-end-line="1351" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-2030106981/PyQt5/QtCore/Qt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -661,11 +757,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/自定义模型/pythonqtgui16章例子/预览.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/study/自定义模型/泛型委托/richtextlineedit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -745,50 +836,143 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-2030106981/PyQt5/QtWidgets/QTableView.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="251" column="8" lean-forward="false" selection-start-line="251" selection-start-column="8" selection-end-line="251" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/自定义模型/第14章例子_自定义委托/richtextlineedit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4316">
+          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="e#23#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/study/自定义模型/第14章例子_船/ships.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2718">
-          <caret line="256" column="48" lean-forward="false" selection-start-line="256" selection-start-column="48" selection-end-line="256" selection-end-column="48" />
+        <state relative-caret-position="276">
+          <caret line="36" column="15" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="15" />
           <folding>
             <element signature="e#24#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/自定义模型/第14章例子_自定义委托/richtextlineedit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/study/自定义模型/pythonqtgui16章例子/预览.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/自定义模型/第14章例子_自定义委托/ships_ans.py">
+    <entry file="file://$PROJECT_DIR$/study/自定义模型/第14章例子_自定义委托/ships-delegate_ans.pyw.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="542" column="58" lean-forward="false" selection-start-line="542" selection-start-column="58" selection-end-line="542" selection-end-column="58" />
+        <state relative-caret-position="69">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <element signature="e#24#39#0" expanded="true" />
+            <element signature="e#24#34#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/study/自定义模型/第14章例子_船/自定义模型_船.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1609">
-          <caret line="72" column="19" lean-forward="true" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
+        <state relative-caret-position="-3258">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
           <folding>
             <element signature="e#23#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/自定义模型/第14章例子_自定义委托/ships-delegate_ans.pyw.py">
+    <entry file="file://$PROJECT_DIR$/study/自定义模型/第14章例子_自定义委托/ships_ans.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+        <state relative-caret-position="564">
+          <caret line="332" column="39" lean-forward="false" selection-start-line="332" selection-start-column="39" selection-end-line="332" selection-end-column="39" />
           <folding>
-            <element signature="e#24#34#0" expanded="true" />
+            <element signature="e#24#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/开发/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-2030106981/PyQt5/QtSql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="1702" column="8" lean-forward="false" selection-start-line="1702" selection-start-column="8" selection-end-line="1702" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/测试例子/插入和读取图片到sqlite/writePicToSqlite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1395">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1521532329023" expanded="true" signature="621:768" ph="create table... if" />
+            <marker date="1521532329023" expanded="true" signature="1129:1208" ph="INSERT INTO PICTURES... " />
+            <marker date="1521532329023" expanded="true" signature="1494:1554" ph="SELECT PICTU... PICTURES" />
+            <marker date="1521532329023" expanded="true" signature="2004:2024" ph="DELETE FROM " />
+            <marker date="1521532329023" expanded="true" signature="2152:2182" ph="SELECT FILE_... PICTURES" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/开发/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1521544425331" expanded="true" signature="414:743" ph="create table... if" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/自定义模型/第15章_数据库模型视图/数据库模型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="327" column="0" lean-forward="true" selection-start-line="327" selection-start-column="0" selection-end-line="327" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+            <marker date="1521544427654" expanded="true" signature="980:997" ph="DROP TABLE a... " />
+            <marker date="1521544427654" expanded="true" signature="1017:1032" ph="DROP TABLE l... " />
+            <marker date="1521544427654" expanded="true" signature="1052:1070" ph="DROP TABLE a... " />
+            <marker date="1521544427654" expanded="true" signature="1090:1111" ph="DROP TABLE c... " />
+            <marker date="1521544427654" expanded="true" signature="1199:1386" ph="CREATE TABLE... actions" />
+            <marker date="1521544427654" expanded="true" signature="1410:1598" ph="CREATE TABLE... categories" />
+            <marker date="1521544427654" expanded="true" signature="1622:1907" ph="CREATE TABLE... assets" />
+            <marker date="1521544427654" expanded="true" signature="1931:2257" ph="CREATE TABLE... logs" />
+            <marker date="1521544427654" expanded="true" signature="2347:2443" ph="INSERT INTO actions... " />
+            <marker date="1521544427654" expanded="true" signature="2463:2567" ph="INSERT INTO actions... " />
+            <marker date="1521544427654" expanded="true" signature="2587:2689" ph="INSERT INTO actions... " />
+            <marker date="1521544427654" expanded="true" signature="2709:2848" ph="INSERT INTO actions... " />
+            <marker date="1521544427654" expanded="true" signature="2868:3023" ph="INSERT INTO categories... " />
+            <marker date="1521544427654" expanded="true" signature="3043:3156" ph="INSERT INTO categories... " />
+            <marker date="1521544427654" expanded="true" signature="3176:3297" ph="INSERT INTO categories... " />
+            <marker date="1521544427654" expanded="true" signature="5094:5193" ph="INSERT INTO assets... " />
+            <marker date="1521544427654" expanded="true" signature="5245:5347" ph="INSERT INTO logs... " />
+            <marker date="1521544427654" expanded="true" signature="8539:8615" ph="SELECT id, n... assets" />
+            <marker date="1521544427654" expanded="true" signature="8837:8895" ph="SELECT name categories" />
+            <marker date="1521544427654" expanded="true" signature="11349:11427" ph="SELECT COUNT... logs" />
+            <marker date="1521544427654" expanded="true" signature="11505:11587" ph="SELECT COUNT... assets" />
+            <marker date="1521544427654" expanded="true" signature="19962:20050" ph="DELETE FROM " />
+            <marker date="1521544427654" expanded="true" signature="20028:20049" ph="SELECT id FR... assets" />
+            <marker date="1521544427654" expanded="true" signature="21224:21250" ph="SELECT MAX(i... assets" />
+            <marker date="1521544427654" expanded="true" signature="21338:21441" ph="INSERT INTO logs... " />
+            <marker date="1521544427654" expanded="true" signature="22034:22076" ph="SELECT COUNT... logs" />
           </folding>
         </state>
       </provider>

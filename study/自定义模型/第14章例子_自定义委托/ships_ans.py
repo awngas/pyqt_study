@@ -290,7 +290,7 @@ class ShipDelegate(QStyledItemDelegate):
                      if option.state & QStyle.State_Selected
                      else QColor(index.model().data(index,
                                  Qt.BackgroundColorRole)))
-            #print(palette.highlight().color().name())
+            # print(palette.highlight().color().name())
             painter.save()
             painter.fillRect(option.rect, color)
             painter.translate(option.rect.x(), option.rect.y())
