@@ -42,6 +42,15 @@ def create_or_open_db(db_file):
         SS7 TEXT,
         SS8 TEXT);'''
         conn.execute(sql) # shortcut for conn.cursor().execute(sql)
+
+        sql_d = """
+         create table if not exists pic(
+         ID INTEGER PRIMARY KEY AUTOINCREMENT,
+         NAME TEXT,
+         DID INTEGER,
+         PIC BLOB
+         );
+        """
     else:
         print('Schema exists\n')
     return conn
