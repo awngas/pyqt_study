@@ -21,7 +21,7 @@ class CarHireLog(object):
     def __init__(self, license, customer, hired, mileageout,
                  returned=QDate(), mileageback=0, notes=""):
         self.license = license      # plain text
-        self.customer = customer    # plain text
+        self.customer = customer    # plain te   xt
         self.hired = hired                   # QDate
         self.mileageout = mileageout         # int
         self.returned = returned             # QDate
