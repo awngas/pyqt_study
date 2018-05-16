@@ -1,23 +1,32 @@
 # -*- coding: utf-8 -*-
 import sys
-from PyQt5.QtCore import QFile, QTimer, Qt
-from PyQt5.QtWidgets import (QApplication, QDialog, QHBoxLayout, QLabel,
-                             QMessageBox, QPushButton, QSplitter, QTableView, QVBoxLayout,
-                             QWidget)
-import sys
+
+import os
 from PyQt5.QtCore import *
-from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtSql import QSqlDatabase, QSqlTableModel
-
+from common import *
 
 def initializeModel(model):
-    model.setTable('people')
+    model.setTable('深渊统计')
     model.setEditStrategy(QSqlTableModel.OnFieldChange)
     model.select()
-    model.setHeaderData(0, Qt.Horizontal, "ID")
-    model.setHeaderData(1, Qt.Horizontal, "name")
-    model.setHeaderData(2, Qt.Horizontal, "address")
+    model.setHeaderData(日期, Qt.Horizontal, "日期")
+    model.setHeaderData(图, Qt.Horizontal, "图")
+    model.setHeaderData(角色, Qt.Horizontal, "角色")
+    model.setHeaderData(深渊次数, Qt.Horizontal, "深渊次数")
+    model.setHeaderData(爆货次数, Qt.Horizontal, "爆货次数")
+    model.setHeaderData(灵魂爆数, Qt.Horizontal, "灵魂爆数")
+    model.setHeaderData(加百利次数, Qt.Horizontal, "加百利次数")
+    model.setHeaderData(晶石, Qt.Horizontal, "晶石")
+    model.setHeaderData(SS1, Qt.Horizontal, "SS1")
+    model.setHeaderData(SS2, Qt.Horizontal, "SS2")
+    model.setHeaderData(SS3, Qt.Horizontal, "SS3")
+    model.setHeaderData(SS4, Qt.Horizontal, "SS4")
+    model.setHeaderData(SS5, Qt.Horizontal, "SS5")
+    model.setHeaderData(SS6, Qt.Horizontal, "SS6")
+    model.setHeaderData(SS7, Qt.Horizontal, "SS7")
+    model.setHeaderData(SS8, Qt.Horizontal, "SS8")
 
 
 def createView(title, model):
@@ -39,8 +48,23 @@ def findrow(i):
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
-    db = QSqlDatabase.addDatabase('QSQLITE')
-    db.setDatabaseName('./db/database.db')
+
+    filename = ".\db\database.db"
+    create = not QFile.exists(filename)
+    print(create)
+
+    if create:
+        common.create_or_open_db(filename)
+
+    db = QSqlDatabase.addDatabase("QSQLITE")
+    db.setDatabaseName(filename)
+    if not db.open():
+        QMessageBox.warning(None, "Reference Data",
+            "Database Error: {0}".format(db.lastError().text()))
+        sys.exit(1)
+
+
+
     model = QSqlTableModel()
     delrow = -1
     initializeModel(model)
