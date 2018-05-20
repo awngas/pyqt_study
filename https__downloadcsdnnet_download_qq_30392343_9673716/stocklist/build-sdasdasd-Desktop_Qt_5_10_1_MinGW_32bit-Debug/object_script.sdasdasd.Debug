@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\stdafx.o
+./debug\StockItemDelegate.o
+./debug\StockListWidget.o
+./debug\StockSortFilterProxyModel.o
+./debug\StockListWidget_copy.o
+./debug\qrc_stocklist.o
+./debug\moc_StockItemDelegate.o
+./debug\moc_StockListWidget.o
+./debug\moc_StockSortFilterProxyModel.o
+);

@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\stdafx.o
+./release\StockItemDelegate.o
+./release\StockListWidget.o
+./release\StockSortFilterProxyModel.o
+./release\StockListWidget_copy.o
+./release\qrc_stocklist.o
+./release\moc_StockItemDelegate.o
+./release\moc_StockListWidget.o
+./release\moc_StockSortFilterProxyModel.o
+);
